@@ -33,7 +33,9 @@ int main(void){
     goto EtiquetaCateo;
     goto Funcion1;
     goto EstructurasStr;
+    printf("\nAportación Del Developer 2");
     goto EtiquetaDesplazamiento;
+    printf("\nAportación Del Developer 2");
 
     printf("\nValor de la variable de Otro.c: %d", VariableOtroC);
     FuncStaticVar();
